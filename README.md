@@ -53,4 +53,14 @@ This project showcases an end-to-end Exploratory Data Analysis (EDA) on a fictio
 ![Top 5 Products by Revenue](images/top_5_products_by_revenue.png)
 
 ## Project Structure
+Amazon-Sales-2025-EDA/
+├── Amazon_Sales_2025_Analysis.ipynb # Main analysis notebook
+├── README.md # Project overview and insights
+├── images/ # Visualizations from the analysis
+│ ├── total_sales_by_category.png
+│ ├── monthly_sales_trend.png
+│ ├── payment_method_distribution.png
+│ └── top_5_products_by_revenue.png
+
+
 
