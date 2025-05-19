@@ -38,19 +38,9 @@ This project showcases an end-to-end Exploratory Data Analysis (EDA) on a fictio
 - Pie chart: Payment method distribution  
 - Horizontal bar chart: Top 5 revenue-generating products
 
-### 📊 Visual Previews
+###  Visual Previews
 
-#### 1. Total Sales by Category  
-![Total Sales by Category](images/total_sales_by_category.png)
-
-#### 2. Monthly Sales Trend  
-![Monthly Sales Trend](images/monthly_sales_trend.png)
-
-#### 3. Payment Method Distribution  
-![Payment Method Distribution](images/payment_method_distribution.png)
-
-#### 4. Top 5 Products by Revenue  
-![Top 5 Products by Revenue](images/top_5_products_by_revenue.png)
+https://github.com/Funmilong/Amazon-Sales-2025-EDA/tree/main/Images
 
 ## Project Structure
 Amazon-Sales-2025-EDA/
