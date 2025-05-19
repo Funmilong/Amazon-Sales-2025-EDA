@@ -32,13 +32,13 @@ This project showcases an end-to-end Exploratory Data Analysis (EDA) on a fictio
 - Pie chart: Payment method distribution  
 - Horizontal bar chart: Top 5 revenue-generating products
 
-## 📈 Visualizations Included
+##  Visualizations Included
 - Bar chart: Total sales by category  
 - Line chart: Monthly sales trend  
 - Pie chart: Payment method distribution  
 - Horizontal bar chart: Top 5 revenue-generating products
 
-### 📊 Visual Previews
+###  Visual Previews
 
 #### 1. Total Sales by Category
 ![Total Sales by Category](images/total_sales_by_category.png)
