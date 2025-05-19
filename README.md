@@ -32,11 +32,6 @@ This project showcases an end-to-end Exploratory Data Analysis (EDA) on a fictio
 - Pie chart: Payment method distribution  
 - Horizontal bar chart: Top 5 revenue-generating products
 
-##  Visualizations Included
-- Bar chart: Total sales by category  
-- Line chart: Monthly sales trend  
-- Pie chart: Payment method distribution  
-- Horizontal bar chart: Top 5 revenue-generating products
 
 ###  Visual Previews
 
@@ -44,7 +39,7 @@ https://github.com/Funmilong/Amazon-Sales-2025-EDA/tree/main/Images
 
 ## Project Structure
 Amazon-Sales-2025-EDA/
-├── Amazon_Sales_2025_Analysis.ipynb # Main analysis notebook
+ -Amazon_Sales_2025_Analysis.ipynb # Main analysis notebook
 ├── README.md # Project overview and insights
 ├── images/ # Visualizations from the analysis
 │ ├── total_sales_by_category.png
